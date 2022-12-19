@@ -4,7 +4,7 @@
 <h3>🇨🇴 ~ ABOUT ME</h3>
 <hr/>
 
-<p>I'm a competitive person, who loves being challenged and solving problems. I enjoy learning Web Technologies and applying them to build cool projects with highly detail and beautiful designs</p>
+<p>I'm a competitive person who loves being challenged and solving problems. I enjoy learning about Web technologies and applying them to build cool projects with high-quality designs.</p>
 
 <h3>⚙️ ~ LANGUAGES AND TOOLS</h3>
 <hr/>
