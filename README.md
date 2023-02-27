@@ -9,7 +9,7 @@
 <h3>⚙️ LANGUAGES AND TOOLS</h3>
 <hr/>
 
-![Icons](https://res.cloudinary.com/docbyxdd1/image/upload/q_100/v1671412639/projects/Github/tech-stack-icons.webp)
+![Icons](https://res.cloudinary.com/docbyxdd1/image/upload/v1677509316/projects/Github/tech-sass.webp)
 
 <h3>💬 LET'S TALK</h3>
 <hr/>
